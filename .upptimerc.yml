@@ -1,29 +1,34 @@
-# Change these first
-owner: vanyakosmos # Your GitHub username
-repo: zakaz-uptime # Your Github repository name
+owner: vanyakosmos
+repo: zakaz-uptime
 
-# Add your sites here
 sites:
-  - name: Main Web
+  - name: Main
     url: https://zakaz.ua
-  - name: Stores API
+  - name: Metro
+    url: https://metro.zakaz.ua
+  - name: Auchan
+    url: https://auchan.zakaz.ua
+  - name: Novus
+    url: https://novus.zakaz.ua
+  - name: Stores API - UA
     url: https://stores-api.zakaz.ua
+  - name: Stores API - RU
+    url: https://stores-api.zakaz.ru
+  - name: Stores API - MD
+    url: https://stores-api.zakaz.md
+  - name: Stores API - UZ
+    url: https://stores-api.zakaz.uz
+  - name: Stores API - TEST
+    url: https://stores-api.test.zakaz.ua
 
 status-website:
-  # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: demo.upptime.js.org
   baseUrl: /zakaz-uptime
-  # Uncomment the following line if you don't have a custom domain and add your repo name
-  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Zazaz.ua** Uptime"
+  introMessage: This is a status page which uses **real-time** data from our [Github repository](https://github.com/vanyakosmos/zakaz-uptime). No server required — just GitHub Actions, Issues, and Pages.
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
