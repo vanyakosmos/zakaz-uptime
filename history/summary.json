@@ -40,18 +40,20 @@
     "url": "https://auchan.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/auchan.zakaz.ua",
     "slug": "auchan",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 3913,
     "timeDay": 3913,
     "timeWeek": 3913,
     "timeMonth": 3913,
     "timeYear": 3913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-28": 0
+    }
   },
   {
     "name": "Novus",
