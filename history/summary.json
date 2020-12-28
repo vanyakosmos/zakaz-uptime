@@ -40,19 +40,19 @@
     "url": "https://auchan.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/auchan.zakaz.ua",
     "slug": "auchan",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3913,
-    "timeDay": 3913,
-    "timeWeek": 3913,
-    "timeMonth": 3913,
-    "timeYear": 3913,
+    "status": "up",
+    "uptime": "97.18%",
+    "uptimeDay": "97.18%",
+    "uptimeWeek": "97.18%",
+    "uptimeMonth": "97.18%",
+    "uptimeYear": "97.18%",
+    "time": 4040,
+    "timeDay": 4040,
+    "timeWeek": 4040,
+    "timeMonth": 4040,
+    "timeYear": 4040,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 26
     }
   },
   {
