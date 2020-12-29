@@ -22,19 +22,19 @@
     "url": "https://metro.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/metro.zakaz.ua",
     "slug": "metro",
-    "status": "down",
-    "uptime": "98.77%",
-    "uptimeDay": "97.65%",
-    "uptimeWeek": "98.77%",
-    "uptimeMonth": "98.77%",
-    "uptimeYear": "98.77%",
-    "time": 4510,
-    "timeDay": 4782,
-    "timeWeek": 4510,
-    "timeMonth": 4510,
-    "timeYear": 4510,
+    "status": "up",
+    "uptime": "97.84%",
+    "uptimeDay": "95.85%",
+    "uptimeWeek": "97.84%",
+    "uptimeMonth": "97.84%",
+    "uptimeYear": "97.84%",
+    "time": 4516,
+    "timeDay": 4704,
+    "timeWeek": 4516,
+    "timeMonth": 4516,
+    "timeYear": 4516,
     "dailyMinutesDown": {
-      "2020-12-29": 34
+      "2020-12-29": 60
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/auchan.zakaz.ua",
     "slug": "auchan",
     "status": "up",
-    "uptime": "97.20%",
+    "uptime": "97.23%",
     "uptimeDay": "97.77%",
-    "uptimeWeek": "97.20%",
-    "uptimeMonth": "97.20%",
-    "uptimeYear": "97.20%",
+    "uptimeWeek": "97.23%",
+    "uptimeMonth": "97.23%",
+    "uptimeYear": "97.23%",
     "time": 4140,
     "timeDay": 4356,
     "timeWeek": 4140,
@@ -154,18 +154,18 @@
     "icon": "https://favicons.githubusercontent.com/stores-api.test.zakaz.ua",
     "slug": "stores-api-test",
     "status": "down",
-    "uptime": "92.59%",
-    "uptimeDay": "85.89%",
-    "uptimeWeek": "92.59%",
-    "uptimeMonth": "92.59%",
-    "uptimeYear": "92.59%",
+    "uptime": "91.71%",
+    "uptimeDay": "84.07%",
+    "uptimeWeek": "91.71%",
+    "uptimeMonth": "91.71%",
+    "uptimeYear": "91.71%",
     "time": 819,
     "timeDay": 609,
     "timeWeek": 819,
     "timeMonth": 819,
     "timeYear": 819,
     "dailyMinutesDown": {
-      "2020-12-29": 203
+      "2020-12-29": 229
     }
   }
 ]
