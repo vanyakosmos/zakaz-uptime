@@ -1,7 +1,7 @@
-url: https://stores-api.test.zakaz.ua  
-status: up
-code: 200
-responseTime: 746
-lastUpdated: 2021-01-05T23:19:13.451Z
+url: https://stores-api.test.zakaz.ua
+status: down
+code: 503
+responseTime: 552
+lastUpdated: 2021-01-06T18:52:18.188Z
 startTime: Sun Dec 27 2020 23:22:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
