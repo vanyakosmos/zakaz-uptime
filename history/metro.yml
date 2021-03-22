@@ -1,7 +1,7 @@
 url: https://metro.zakaz.ua
-status: up
-code: 200
-responseTime: 1937
-lastUpdated: 2021-03-21T23:09:20.893Z
+status: down
+code: 503
+responseTime: 481
+lastUpdated: 2021-03-22T00:00:21.944Z
 startTime: Sun Dec 27 2020 23:21:47 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
