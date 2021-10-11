@@ -10,10 +10,34 @@ sites:
     url: https://auchan.zakaz.ua
   - name: Novus
     url: https://novus.zakaz.ua
+  - name: CityMarket
+    url: https://citymarket.zakaz.ua
+  - name: Cosmos
+    url: https://cosmos.zakaz.ua
+  - name: Ekomarket
+    url: https://ekomarket.zakaz.ua
+  - name: Megamarket
+    url: https://megamarket.zakaz.ua
+  - name: Pchelka
+    url: https://pchelka.zakaz.ua
+  - name: Stolychiy
+    url: https://stolychyi.zakaz.ua
+  - name: Tavria V
+    url: https://tavriav.zakaz.ua
+  - name: UltraMarket
+    url: https://ultramarket.zakaz.ua
+  - name: Varus
+    url: https://varus.zakaz.ua
+  - name: Vostorg
+    url: https://vostorg.zakaz.ua
+  - name: Metro MD
+    url: https://metro.zakaz.md
+  - name: Makro
+    url: https://makro.zakaz.uz
+  - name: Carrefour
+    url: https://zakaz.uz/carrefour
   - name: Stores API - UA
     url: https://stores-api.zakaz.ua
-  - name: Stores API - RU
-    url: https://stores-api.zakaz.ru
   - name: Stores API - MD
     url: https://stores-api.zakaz.md
   - name: Stores API - UZ
