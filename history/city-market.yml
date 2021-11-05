@@ -1,7 +1,7 @@
 url: https://citymarket.zakaz.ua
-status: up
-code: 200
-responseTime: 3035
-lastUpdated: 2021-11-04T23:06:19.842Z
+status: down
+code: 500
+responseTime: 600
+lastUpdated: 2021-11-05T23:06:28.071Z
 startTime: Mon Oct 11 2021 12:04:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
