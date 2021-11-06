@@ -202,19 +202,17 @@
     "icon": "https://favicons.githubusercontent.com/pchelka.zakaz.ua",
     "slug": "pchelka",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2606,
     "timeDay": 1537,
     "timeWeek": 1864,
     "timeMonth": 2606,
     "timeYear": 2606,
-    "dailyMinutesDown": {
-      "2021-11-05": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Stolychiy",
