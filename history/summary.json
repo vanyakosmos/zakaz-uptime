@@ -292,19 +292,17 @@
     "icon": "https://favicons.githubusercontent.com/vostorg.zakaz.ua",
     "slug": "vostorg",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2405,
     "timeDay": 1906,
     "timeWeek": 2400,
     "timeMonth": 2405,
     "timeYear": 2405,
-    "dailyMinutesDown": {
-      "2021-11-07": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Metro MD",
@@ -329,10 +327,10 @@
     "url": "https://makro.zakaz.uz",
     "icon": "https://favicons.githubusercontent.com/makro.zakaz.uz",
     "slug": "makro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3401,
@@ -340,7 +338,9 @@
     "timeWeek": 3925,
     "timeMonth": 3401,
     "timeYear": 3401,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-07": 2
+    }
   },
   {
     "name": "Carrefour",
