@@ -327,10 +327,10 @@
     "url": "https://makro.zakaz.uz",
     "icon": "https://favicons.githubusercontent.com/makro.zakaz.uz",
     "slug": "makro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 3496,
@@ -339,6 +339,7 @@
     "timeMonth": 3496,
     "timeYear": 3496,
     "dailyMinutesDown": {
+      "2021-11-10": 1,
       "2021-11-07": 18
     }
   },
