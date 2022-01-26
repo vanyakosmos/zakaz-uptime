@@ -87,19 +87,19 @@
     "url": "https://novus.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/novus.zakaz.ua",
     "slug": "novus",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.48%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
-    "time": 2340,
-    "timeDay": 1198,
-    "timeWeek": 1447,
-    "timeMonth": 1486,
-    "timeYear": 2188,
+    "time": 2337,
+    "timeDay": 1203,
+    "timeWeek": 1417,
+    "timeMonth": 1477,
+    "timeYear": 2186,
     "dailyMinutesDown": {
-      "2022-01-26": 5,
+      "2022-01-26": 8,
       "2021-08-06": 94,
       "2021-05-25": 24,
       "2021-05-07": 20,
@@ -112,19 +112,19 @@
     "url": "https://citymarket.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/citymarket.zakaz.ua",
     "slug": "city-market",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1883,
-    "timeDay": 1986,
-    "timeWeek": 1499,
-    "timeMonth": 1468,
-    "timeYear": 1883,
+    "time": 1876,
+    "timeDay": 1542,
+    "timeWeek": 1448,
+    "timeMonth": 1457,
+    "timeYear": 1876,
     "dailyMinutesDown": {
-      "2022-01-26": 4
+      "2022-01-26": 7
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://cosmos.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/cosmos.zakaz.ua",
     "slug": "cosmos",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1958,
-    "timeDay": 1169,
-    "timeWeek": 1316,
-    "timeMonth": 1474,
-    "timeYear": 1958,
+    "time": 1952,
+    "timeDay": 1221,
+    "timeWeek": 1311,
+    "timeMonth": 1468,
+    "timeYear": 1952,
     "dailyMinutesDown": {
-      "2022-01-26": 4
+      "2022-01-26": 7
     }
   },
   {
@@ -170,19 +170,19 @@
     "url": "https://megamarket.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/megamarket.zakaz.ua",
     "slug": "megamarket",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1685,
-    "timeDay": 1120,
-    "timeWeek": 1342,
-    "timeMonth": 1338,
-    "timeYear": 1685,
+    "time": 1688,
+    "timeDay": 1556,
+    "timeWeek": 1423,
+    "timeMonth": 1359,
+    "timeYear": 1688,
     "dailyMinutesDown": {
-      "2022-01-26": 3
+      "2022-01-26": 6
     }
   },
   {
@@ -208,19 +208,19 @@
     "url": "https://stolychyi.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/stolychyi.zakaz.ua",
     "slug": "stolychiy",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.82%",
-    "uptimeWeek": "99.97%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1529,
-    "timeDay": 1309,
-    "timeWeek": 1452,
-    "timeMonth": 1500,
-    "timeYear": 1529,
+    "time": 1527,
+    "timeDay": 1322,
+    "timeWeek": 1437,
+    "timeMonth": 1495,
+    "timeYear": 1527,
     "dailyMinutesDown": {
-      "2022-01-26": 3
+      "2022-01-26": 6
     }
   },
   {
@@ -228,19 +228,19 @@
     "url": "https://tavriav.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/tavriav.zakaz.ua",
     "slug": "tavria-v",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1864,
-    "timeDay": 2088,
-    "timeWeek": 1386,
-    "timeMonth": 1460,
-    "timeYear": 1864,
+    "time": 1858,
+    "timeDay": 1631,
+    "timeWeek": 1360,
+    "timeMonth": 1451,
+    "timeYear": 1858,
     "dailyMinutesDown": {
-      "2022-01-26": 2
+      "2022-01-26": 5
     }
   },
   {
@@ -248,19 +248,19 @@
     "url": "https://ultramarket.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/ultramarket.zakaz.ua",
     "slug": "ultra-market",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1864,
-    "timeDay": 1028,
-    "timeWeek": 1242,
-    "timeMonth": 1313,
-    "timeYear": 1864,
+    "time": 1886,
+    "timeDay": 2615,
+    "timeWeek": 1612,
+    "timeMonth": 1403,
+    "timeYear": 1886,
     "dailyMinutesDown": {
-      "2022-01-26": 1
+      "2022-01-26": 5
     }
   },
   {
@@ -270,9 +270,9 @@
     "slug": "varus",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1694,
     "timeDay": 1170,
@@ -280,7 +280,7 @@
     "timeMonth": 1391,
     "timeYear": 1694,
     "dailyMinutesDown": {
-      "2022-01-26": 1
+      "2022-01-26": 7
     }
   },
   {
@@ -288,10 +288,10 @@
     "url": "https://vostorg.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/vostorg.zakaz.ua",
     "slug": "vostorg",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1722,
@@ -299,7 +299,9 @@
     "timeWeek": 1228,
     "timeMonth": 1410,
     "timeYear": 1722,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 1
+    }
   },
   {
     "name": "Metro MD",
@@ -371,10 +373,10 @@
     "url": "https://stores-api.zakaz.ua",
     "icon": "https://favicons.githubusercontent.com/stores-api.zakaz.ua",
     "slug": "stores-api-ua",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 848,
@@ -383,6 +385,7 @@
     "timeMonth": 775,
     "timeYear": 842,
     "dailyMinutesDown": {
+      "2022-01-26": 1,
       "2021-08-06": 63,
       "2021-05-25": 23,
       "2021-05-07": 20,
