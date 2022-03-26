@@ -1,7 +1,7 @@
 url: https://tavriav.zakaz.ua
-status: up
-code: 200
-responseTime: 1325
-lastUpdated: 2022-03-25T23:07:31.489Z
+status: down
+code: 503
+responseTime: 52
+lastUpdated: 2022-03-26T22:22:21.586Z
 startTime: Mon Oct 11 2021 12:04:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
