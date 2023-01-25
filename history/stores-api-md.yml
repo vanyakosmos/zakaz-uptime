@@ -1,7 +1,7 @@
 url: https://stores-api.zakaz.md
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-25T08:55:50.669Z
+status: up
+code: 200
+responseTime: 4511
+lastUpdated: 2023-01-25T09:20:49.956Z
 startTime: Sun Dec 27 2020 23:22:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
