@@ -32,16 +32,10 @@ sites:
     url: https://vostorg.zakaz.ua
   - name: Metro MD
     url: https://metro.zakaz.md
-  - name: Makro
-    url: https://makro.zakaz.uz
-  - name: Carrefour
-    url: https://zakaz.uz/carrefour
   - name: Stores API - UA
     url: https://stores-api.zakaz.ua
   - name: Stores API - MD
     url: https://stores-api.zakaz.md
-  - name: Stores API - UZ
-    url: https://stores-api.zakaz.uz
   - name: Stores API - TEST
     url: https://stores-api.test.zakaz.ua
 
