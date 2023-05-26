@@ -2368,19 +2368,19 @@
     "url": "https://stores-api.zakaz.md",
     "icon": "https://icons.duckduckgo.com/ip3/stores-api.zakaz.md.ico",
     "slug": "stores-api-md",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.98%",
     "time": 1215,
     "timeDay": 1317,
     "timeWeek": 1147,
     "timeMonth": 1078,
     "timeYear": 1324,
     "dailyMinutesDown": {
-      "2023-05-26": 13,
+      "2023-05-26": 3,
       "2023-01-25": 25,
       "2022-12-09": 95
     }
@@ -2392,9 +2392,9 @@
     "slug": "stores-api-test",
     "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 617,
     "timeDay": 711,
@@ -2402,7 +2402,6 @@
     "timeMonth": 629,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2023-05-26": 11,
       "2023-02-08": 37,
       "2023-01-25": 22
     }
