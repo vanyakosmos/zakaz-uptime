@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/zakaz.ua.ico",
     "slug": "main",
     "status": "up",
-    "uptime": "83.90%",
+    "uptime": "83.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.76%",
+    "uptimeYear": "90.04%",
     "time": 555,
-    "timeDay": 908,
-    "timeWeek": 751,
-    "timeMonth": 805,
-    "timeYear": 668,
+    "timeDay": 584,
+    "timeWeek": 717,
+    "timeMonth": 798,
+    "timeYear": 669,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 64,
@@ -53,8 +53,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -63,16 +62,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/metro.zakaz.ua.ico",
     "slug": "metro",
     "status": "up",
-    "uptime": "83.93%",
+    "uptime": "83.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.76%",
-    "time": 798,
-    "timeDay": 1604,
+    "uptimeYear": "90.04%",
+    "time": 799,
+    "timeDay": 1495,
     "timeWeek": 1505,
     "timeMonth": 1492,
-    "timeYear": 993,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 57,
@@ -111,8 +110,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -121,16 +119,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auchan.zakaz.ua.ico",
     "slug": "auchan",
     "status": "up",
-    "uptime": "83.83%",
+    "uptime": "83.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 773,
-    "timeDay": 2177,
-    "timeWeek": 1645,
-    "timeMonth": 1530,
-    "timeYear": 955,
+    "uptimeYear": "90.04%",
+    "time": 774,
+    "timeDay": 1387,
+    "timeWeek": 1685,
+    "timeMonth": 1541,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 43,
@@ -169,8 +167,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -179,16 +176,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/novus.zakaz.ua.ico",
     "slug": "novus",
     "status": "up",
-    "uptime": "83.94%",
+    "uptime": "83.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 786,
-    "timeDay": 1358,
-    "timeWeek": 1530,
-    "timeMonth": 1463,
-    "timeYear": 974,
+    "uptimeYear": "90.04%",
+    "time": 787,
+    "timeDay": 1152,
+    "timeWeek": 1509,
+    "timeMonth": 1462,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 43,
@@ -227,8 +224,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -237,16 +233,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/citymarket.zakaz.ua.ico",
     "slug": "city-market",
     "status": "up",
-    "uptime": "77.08%",
+    "uptime": "77.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.76%",
+    "uptimeYear": "90.04%",
     "time": 606,
-    "timeDay": 1379,
-    "timeWeek": 1044,
-    "timeMonth": 1276,
-    "timeYear": 736,
+    "timeDay": 872,
+    "timeWeek": 1037,
+    "timeMonth": 1273,
+    "timeYear": 738,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 64,
@@ -285,8 +281,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -295,16 +290,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cosmos.zakaz.ua.ico",
     "slug": "cosmos",
     "status": "up",
-    "uptime": "77.31%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 828,
-    "timeDay": 2849,
-    "timeWeek": 1733,
-    "timeMonth": 1537,
-    "timeYear": 1042,
+    "uptimeYear": "90.04%",
+    "time": 829,
+    "timeDay": 1065,
+    "timeWeek": 1681,
+    "timeMonth": 1523,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 44,
@@ -343,8 +338,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -353,16 +347,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ekomarket.zakaz.ua.ico",
     "slug": "ekomarket",
     "status": "up",
-    "uptime": "77.27%",
+    "uptime": "77.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.76%",
+    "uptimeYear": "90.03%",
     "time": 745,
-    "timeDay": 1237,
-    "timeWeek": 947,
-    "timeMonth": 922,
-    "timeYear": 795,
+    "timeDay": 679,
+    "timeWeek": 898,
+    "timeMonth": 915,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 83,
@@ -401,8 +395,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -411,16 +404,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/megamarket.zakaz.ua.ico",
     "slug": "megamarket",
     "status": "up",
-    "uptime": "77.31%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 858,
-    "timeDay": 1420,
-    "timeWeek": 1609,
-    "timeMonth": 1596,
-    "timeYear": 1086,
+    "uptimeYear": "90.04%",
+    "time": 860,
+    "timeDay": 1674,
+    "timeWeek": 1667,
+    "timeMonth": 1597,
+    "timeYear": 1090,
     "dailyMinutesDown": {
       "2023-08-21": 32,
       "2023-06-28": 46,
@@ -459,8 +452,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -469,16 +461,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/pchelka.zakaz.ua.ico",
     "slug": "pchelka",
     "status": "up",
-    "uptime": "77.09%",
+    "uptime": "77.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.35%",
+    "uptimeYear": "89.62%",
     "time": 640,
-    "timeDay": 984,
-    "timeWeek": 823,
-    "timeMonth": 867,
-    "timeYear": 793,
+    "timeDay": 689,
+    "timeWeek": 819,
+    "timeMonth": 861,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 83,
@@ -520,8 +512,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -530,16 +521,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stolychyi.zakaz.ua.ico",
     "slug": "stolychiy",
     "status": "up",
-    "uptime": "77.27%",
+    "uptime": "77.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.76%",
+    "uptimeYear": "90.03%",
     "time": 616,
-    "timeDay": 1152,
-    "timeWeek": 862,
-    "timeMonth": 885,
-    "timeYear": 766,
+    "timeDay": 662,
+    "timeWeek": 866,
+    "timeMonth": 875,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 83,
@@ -578,8 +569,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -588,16 +578,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/tavriav.zakaz.ua.ico",
     "slug": "tavria-v",
     "status": "up",
-    "uptime": "77.31%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 820,
-    "timeDay": 1609,
-    "timeWeek": 1603,
-    "timeMonth": 1478,
-    "timeYear": 1035,
+    "uptimeYear": "90.04%",
+    "time": 821,
+    "timeDay": 1104,
+    "timeWeek": 1476,
+    "timeMonth": 1482,
+    "timeYear": 1037,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 49,
@@ -636,8 +626,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -646,16 +635,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ultramarket.zakaz.ua.ico",
     "slug": "ultra-market",
     "status": "up",
-    "uptime": "77.31%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 783,
-    "timeDay": 1956,
-    "timeWeek": 1515,
-    "timeMonth": 1510,
-    "timeYear": 982,
+    "uptimeYear": "90.04%",
+    "time": 784,
+    "timeDay": 1399,
+    "timeWeek": 1562,
+    "timeMonth": 1504,
+    "timeYear": 985,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 49,
@@ -694,8 +683,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -704,16 +692,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/varus.zakaz.ua.ico",
     "slug": "varus",
     "status": "up",
-    "uptime": "77.31%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
+    "uptimeYear": "90.04%",
     "time": 762,
-    "timeDay": 2315,
-    "timeWeek": 1523,
-    "timeMonth": 1387,
-    "timeYear": 959,
+    "timeDay": 1035,
+    "timeWeek": 1468,
+    "timeMonth": 1383,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 49,
@@ -752,8 +740,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -762,16 +749,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/vostorg.zakaz.ua.ico",
     "slug": "vostorg",
     "status": "up",
-    "uptime": "77.31%",
+    "uptime": "77.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 791,
-    "timeDay": 1702,
-    "timeWeek": 1660,
-    "timeMonth": 1430,
-    "timeYear": 1003,
+    "uptimeYear": "90.04%",
+    "time": 792,
+    "timeDay": 1556,
+    "timeWeek": 1675,
+    "timeMonth": 1435,
+    "timeYear": 1007,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 49,
@@ -810,8 +797,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -826,10 +812,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2043,
-    "timeDay": 1907,
-    "timeWeek": 1592,
-    "timeMonth": 1699,
-    "timeYear": 2172,
+    "timeDay": 1173,
+    "timeWeek": 1523,
+    "timeMonth": 1683,
+    "timeYear": 2170,
     "dailyMinutesDown": {
       "2023-05-26": 16,
       "2023-01-25": 25
@@ -841,16 +827,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stores-api.zakaz.ua.ico",
     "slug": "stores-api-ua",
     "status": "up",
-    "uptime": "83.96%",
+    "uptime": "83.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "89.77%",
-    "time": 412,
-    "timeDay": 616,
-    "timeWeek": 515,
-    "timeMonth": 547,
-    "timeYear": 510,
+    "uptimeYear": "90.04%",
+    "time": 413,
+    "timeDay": 771,
+    "timeWeek": 555,
+    "timeMonth": 554,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2023-08-21": 33,
       "2023-06-28": 49,
@@ -889,8 +875,7 @@
       "2022-09-08": 1440,
       "2022-09-07": 1440,
       "2022-09-06": 1440,
-      "2022-09-05": 1440,
-      "2022-09-04": 1440
+      "2022-09-05": 1440
     }
   },
   {
@@ -905,9 +890,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1222,
-    "timeDay": 844,
-    "timeWeek": 676,
-    "timeMonth": 750,
+    "timeDay": 633,
+    "timeWeek": 696,
+    "timeMonth": 748,
     "timeYear": 1298,
     "dailyMinutesDown": {
       "2023-05-26": 16,
@@ -921,16 +906,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/stores-api.test.zakaz.ua.ico",
     "slug": "stores-api-test",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.95%",
     "time": 616,
-    "timeDay": 772,
-    "timeWeek": 565,
-    "timeMonth": 638,
-    "timeYear": 634,
+    "timeDay": 541,
+    "timeWeek": 572,
+    "timeMonth": 634,
+    "timeYear": 633,
     "dailyMinutesDown": {
       "2023-08-17": 30,
       "2023-08-08": 18,
