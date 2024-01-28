@@ -1,7 +1,7 @@
 url: https://novus.zakaz.ua
-status: down
-code: 503
-responseTime: 400
-lastUpdated: 2024-01-28T11:02:16.128Z
+status: up
+code: 200
+responseTime: 1803
+lastUpdated: 2024-01-28T11:21:37.533Z
 startTime: 2020-12-27T23:21:56.000Z
 generator: Upptime <https://github.com/upptime/upptime>
