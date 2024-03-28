@@ -1,7 +1,7 @@
 url: https://cosmos.zakaz.ua
-status: up
-code: 200
-responseTime: 2561
-lastUpdated: 2024-03-28T14:42:42.381Z
+status: down
+code: 403
+responseTime: 35
+lastUpdated: 2024-03-28T15:25:19.140Z
 startTime: 2021-10-11T12:04:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
