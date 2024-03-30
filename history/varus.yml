@@ -1,7 +1,7 @@
 url: https://varus.zakaz.ua
-status: down
-code: 503
-responseTime: 333
-lastUpdated: 2024-03-30T22:49:56.372Z
+status: up
+code: 200
+responseTime: 1965
+lastUpdated: 2024-03-30T22:57:14.309Z
 startTime: 2021-10-11T12:05:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
