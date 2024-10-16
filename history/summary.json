@@ -6,9 +6,9 @@
     "slug": "main",
     "status": "down",
     "uptime": "88.62%",
-    "uptimeDay": "97.92%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "97.55%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.90%",
     "time": 739,
     "timeDay": 437,
@@ -16,7 +16,7 @@
     "timeMonth": 815,
     "timeYear": 729,
     "dailyMinutesDown": {
-      "2024-10-16": 30,
+      "2024-10-16": 35,
       "2024-10-15": 27,
       "2024-03-28": 445
     }
@@ -109,18 +109,19 @@
     "url": "https://citymarket.zakaz.ua",
     "icon": "https://icons.duckduckgo.com/ip3/citymarket.zakaz.ua.ico",
     "slug": "city-market",
-    "status": "up",
+    "status": "down",
     "uptime": "85.57%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 1067,
-    "timeDay": 1004,
-    "timeWeek": 1002,
-    "timeMonth": 1018,
+    "timeDay": 948,
+    "timeWeek": 982,
+    "timeMonth": 1011,
     "timeYear": 1047,
     "dailyMinutesDown": {
+      "2024-10-16": 3,
       "2024-10-15": 25,
       "2024-03-28": 445
     }
@@ -155,9 +156,9 @@
     "slug": "ekomarket",
     "status": "down",
     "uptime": "85.69%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 879,
     "timeDay": 6077,
@@ -165,7 +166,7 @@
     "timeMonth": 1269,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2024-10-16": 3,
+      "2024-10-16": 8,
       "2024-10-15": 24,
       "2024-03-28": 449
     }
@@ -201,9 +202,9 @@
     "slug": "pchelka",
     "status": "down",
     "uptime": "85.58%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 822,
     "timeDay": 911,
@@ -211,7 +212,7 @@
     "timeMonth": 796,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-10-16": 1,
+      "2024-10-16": 7,
       "2024-10-15": 22,
       "2024-03-28": 449
     }
@@ -223,9 +224,9 @@
     "slug": "stolychiy",
     "status": "down",
     "uptime": "85.69%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 845,
     "timeDay": 8199,
@@ -233,7 +234,7 @@
     "timeMonth": 1244,
     "timeYear": 847,
     "dailyMinutesDown": {
-      "2024-10-16": 1,
+      "2024-10-16": 6,
       "2024-10-15": 21,
       "2024-03-28": 449
     }
@@ -301,7 +302,7 @@
     "timeMonth": 0,
     "timeYear": 1580,
     "dailyMinutesDown": {
-      "2024-10-16": 653,
+      "2024-10-16": 658,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -559,14 +560,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.08%",
     "uptimeMonth": "3.24%",
-    "uptimeYear": "85.35%",
+    "uptimeYear": "85.34%",
     "time": 671,
     "timeDay": 176,
     "timeWeek": 311,
     "timeMonth": 315,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-10-16": 653,
+      "2024-10-16": 658,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
