@@ -4,10 +4,10 @@
     "url": "https://zakaz.ua",
     "icon": "https://icons.duckduckgo.com/ip3/zakaz.ua.ico",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "88.62%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 740,
@@ -16,6 +16,7 @@
     "timeMonth": 826,
     "timeYear": 730,
     "dailyMinutesDown": {
+      "2024-10-16": 1,
       "2024-10-15": 27,
       "2024-03-28": 445
     }
@@ -110,9 +111,9 @@
     "slug": "city-market",
     "status": "up",
     "uptime": "85.57%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.91%",
     "time": 1067,
     "timeDay": 1004,
@@ -120,7 +121,6 @@
     "timeMonth": 1018,
     "timeYear": 1047,
     "dailyMinutesDown": {
-      "2024-10-16": 10,
       "2024-10-15": 25,
       "2024-03-28": 445
     }
@@ -155,9 +155,9 @@
     "slug": "ekomarket",
     "status": "up",
     "uptime": "85.69%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 848,
     "timeDay": 960,
@@ -165,7 +165,6 @@
     "timeMonth": 799,
     "timeYear": 841,
     "dailyMinutesDown": {
-      "2024-10-16": 8,
       "2024-10-15": 24,
       "2024-03-28": 449
     }
@@ -201,9 +200,9 @@
     "slug": "pchelka",
     "status": "up",
     "uptime": "85.58%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 822,
     "timeDay": 911,
@@ -211,7 +210,6 @@
     "timeMonth": 796,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2024-10-16": 7,
       "2024-10-15": 22,
       "2024-03-28": 449
     }
@@ -293,14 +291,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "51.32%",
+    "uptimeYear": "51.31%",
     "time": 1509,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1580,
     "dailyMinutesDown": {
-      "2024-10-16": 576,
+      "2024-10-16": 594,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
@@ -554,7 +552,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/stores-api.zakaz.md.ico",
     "slug": "stores-api-md",
     "status": "down",
-    "uptime": "96.13%",
+    "uptime": "96.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "8.08%",
     "uptimeMonth": "3.24%",
@@ -565,7 +563,7 @@
     "timeMonth": 315,
     "timeYear": 617,
     "dailyMinutesDown": {
-      "2024-10-16": 576,
+      "2024-10-16": 594,
       "2024-10-15": 1440,
       "2024-10-14": 1440,
       "2024-10-13": 1440,
