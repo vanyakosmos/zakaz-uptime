@@ -1,7 +1,7 @@
 url: https://metro.zakaz.md
-status: up
-code: 200
-responseTime: 1587
-lastUpdated: 2025-01-11T23:09:06.990Z
+status: down
+code: 500
+responseTime: 21155
+lastUpdated: 2025-01-12T02:49:10.973Z
 startTime: 2021-10-11T12:05:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
